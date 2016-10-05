@@ -1,0 +1,14 @@
+{
+  "name": "node-web-server",
+  "version": "1.0.0",
+  "description": "webserver built with nodejs",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaitra Shanthappa",
+  "license": "ISC",
+  "dependencies": {
+    "httpdispatcher": "^1.0.0"
+  }
+}
